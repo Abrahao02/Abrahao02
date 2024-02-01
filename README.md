@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho com diversos projetos pessoais e freelancer
-- 🌱 Estuando Engenharia de Software
+- 🌱 Estudando Engenharia de Software
 - 📫 How to reach me: eduardo.abrahao@hotmail.com
 - 😄 Pronouns: ele/dele
 
