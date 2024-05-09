@@ -6,6 +6,9 @@
 - 📫 Contate-me: eduardo.abrahao@hotmail.com
 - 😄 Pronouns: ele/dele
 
+ 
+Meu portfólio web clicando [aqui](https://abrahao02.github.io/PortifolioWeb/). Fique à vontade para explorar e conhecer mais sobre mim e meus projetos.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -15,5 +18,4 @@
   <img align="center" alt="Edu-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
- 
-Meu portfólio web clicando [aqui](https://abrahao02.github.io/PortifolioWeb/). Fique à vontade para explorar e conhecer mais sobre mim e meus projetos.
+
