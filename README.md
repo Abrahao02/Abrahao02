@@ -1,6 +1,6 @@
 # Olá! Eu sou o Eduardo de Sá Abrahão 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FFFFFF&vCenter=true&width=600&height=22&lines=%F0%9F%92%BB+Sou+Desenvolvedor+FullStack;%F0%9F%92%96+Estudante+de+Engenharia+de+Software;%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Freelancer+e+Trabalhos+Pessoais;%F0%9F%91%80+Conhe%C3%A7a+meus+projetos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00008B&vCenter=true&width=600&height=22&lines=%F0%9F%92%BB+Sou+Desenvolvedor+FullStack;%F0%9F%92%96+Estudante+de+Engenharia+de+Software;%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Freelancer+e+Trabalhos+Pessoais;%F0%9F%91%80+Conhe%C3%A7a+meus+projetos)](https://git.io/typing-svg)
 
 #### 🎮 Meu portfólio web clicando [aqui](https://abrahao02.github.io/PortifolioWeb/). Fique à vontade para explorar e conhecer mais sobre mim e meus projetos.
 <img align="right" alt="" height="300px" width="460" src="https://backiee.com/static/wallpapers/560x315/386745.jpg">
