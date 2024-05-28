@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FFFFFF&vCenter=true&width=600&height=22&lines=%F0%9F%92%BB+Sou+Desenvolvedor+FullStack;%F0%9F%92%96+Estudante+de+Engenharia+de+Software;%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Freelancer+e+Trabalhos+Pessoais;%F0%9F%91%80+Conhe%C3%A7a+meus+projetos)](https://git.io/typing-svg)
 
 #### 🎮 Meu portfólio web clicando [aqui](https://abrahao02.github.io/PortifolioWeb/). Fique à vontade para explorar e conhecer mais sobre mim e meus projetos.
-
-<img align="right" alt="" height="300px" width="400" src="https://images.hdqwalls.com/download/gamer-zone-4k-9u-2560x1440.jpg">
+<img align="right" alt="" height="300px" width="460" src="https://backiee.com/static/wallpapers/560x315/386745.jpg">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> Sobre mim
 - 🔭 Trabalho com diversos projetos pessoais e freelancer.
