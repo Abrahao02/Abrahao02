@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=87bbff&vCenter=true&width=600&height=22&lines=%F0%9F%92%BB+Sou+Desenvolvedor+FullStack;%F0%9F%92%96+Estudante+de+Engenharia+de+Software;%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Freelancer+e+Trabalhos+Pessoais;%F0%9F%91%80+Conhe%C3%A7a+meus+projetos)](https://git.io/typing-svg)
 
 #### 🎮 Meu portfólio web clicando [aqui](https://abrahao02.github.io/PortifolioWeb/). Fique à vontade para explorar e conhecer mais sobre mim e meus projetos.
-<img align="right" alt="" height="300px" src="https://cdn.leonardo.ai/users/8e386f6b-b4b5-4b10-b2b4-59d52fde6820/generations/bf67b063-daa6-44b2-b9f3-2740a3b80d2e/Default_can_u_create_a_simple_male_anime_carather_style_in_a_c_3.jpg">
+
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> Sobre mim
 - 🔭 Trabalho com diversos projetos pessoais e freelancer.
