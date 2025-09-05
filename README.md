@@ -18,13 +18,6 @@
 
 <br>
 
-<details>
-  <summary>⭐Top Languages </summary>
-  <p>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abrahao02&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs">
-  </p>
-</details>
-
 ### ⚙Tecnologias que utilizo
 <div style="display: inline_block">
   <img align="center" alt="Edu-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
