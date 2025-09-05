@@ -13,11 +13,7 @@
 ### 🎉 Vamos nos conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-abrah%C3%A3o-160957238/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_abrahao/)
-
-
-
 <br>
-
 ### ⚙Tecnologias que utilizo
 <div style="display: inline_block">
   <img align="center" alt="Edu-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
