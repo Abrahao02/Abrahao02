@@ -44,7 +44,7 @@
   - Autenticação básica (Basic Auth)  
   - Testes unitários com cobertura > 80%  
 
-  🔗 [Repositório](https://github.com/abrahao02/school-rest)  
+  🔗 [Repositório](https://github.com/Abrahao02/EscolaREST)  
 </details>
 
 <details>
