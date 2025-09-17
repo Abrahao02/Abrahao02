@@ -65,7 +65,7 @@
   - Cálculo do custo total das receitas  
   - Interface amigável para visualização e gerenciamento das receitas  
 
-  🔗 [Repositório](https://github.com/abrahao02/app-receitas)  
+  🔗 [Repositório](https://github.com/Abrahao02/ReceitaAplicativoAndroid)  
 </details>
 
 <details>
@@ -86,26 +86,7 @@
   - Autenticação e autorização de usuários  
   - Gerenciamento de usuários  
 
-  🔗 [Repositório](https://github.com/abrahao02/site-venda-skins)  
+  🔗 [Repositório](https://github.com/Abrahao02/CS2SKINWebApplication)  
   🌐 [Acesse o projeto online](https://infnet-aluno2023-01.azurewebsites.net/)  
 </details>
 
-<details>
-  <summary>🔹 Tech Mentor+</summary>
-
-  **Descrição:**  
-  Plataforma de **mentoria inclusiva** conectando mentores e mentorados, com foco em diversidade no mercado de tecnologia.  
-
-  **Tecnologias utilizadas:**  
-  - React  
-  - Firebase Authentication  
-  - Firestore  
-
-  **Funcionalidades:**  
-  - Cadastro e login de usuários  
-  - Dashboard com perfis de mentores  
-  - Compartilhamento de experiências  
-  - Espaço para networking e aprendizado  
-
-  🔗 [Repositório](https://github.com/abrahao02/tech-mentor-plus)  
-</details>
