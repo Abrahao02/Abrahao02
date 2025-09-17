@@ -25,3 +25,87 @@
   <img align="center" alt="Edu-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
+
+## 🚀 Principais Projetos
+
+<details>
+  <summary>🔹 Escola REST API</summary>
+
+  **Descrição:**  
+  API em **Spring Boot** para gerenciar alunos, disciplinas e notas, com autenticação básica para professores.  
+
+  **Tecnologias:**  
+  - Java 17, Spring Boot 3, PostgreSQL  
+  - Docker + Docker Compose, JUnit 5, Lombok, Maven  
+
+  **Funcionalidades:**  
+  - CRUD de alunos e disciplinas  
+  - Atribuição de notas e listagem de aprovados/reprovados  
+  - Autenticação básica (Basic Auth)  
+  - Testes unitários com cobertura > 80%  
+
+  🔗 [Repositório](https://github.com/abrahao02/school-rest)  
+</details>
+
+<details>
+  <summary>🔹 App de Receitas</summary>
+
+  **Descrição:**  
+  Aplicativo para **Android** que permite aos usuários guardar e calcular receitas, com autenticação e armazenamento na nuvem.  
+
+  **Tecnologias utilizadas:**  
+  - Android Studio  
+  - Firebase Authentication  
+  - Firebase Firestore  
+
+  **Funcionalidades:**  
+  - Cadastro e login de usuários  
+  - Recuperação de senha  
+  - Armazenamento de receitas  
+  - Cálculo do custo total das receitas  
+  - Interface amigável para visualização e gerenciamento das receitas  
+
+  🔗 [Repositório](https://github.com/abrahao02/app-receitas)  
+</details>
+
+<details>
+  <summary>🔹 Site-Venda-Skins</summary>
+
+  **Descrição:**  
+  Projeto de site de venda de skins desenvolvido em **C#** utilizando **Razor Pages** e banco de dados para operações CRUD.  
+
+  **Tecnologias utilizadas:**  
+  - C#  
+  - Razor Pages  
+  - Banco de Dados  
+  - Azure  
+
+  **Funcionalidades:**  
+  - CRUD de skins (criar, visualizar, atualizar e excluir)  
+  - Visualização de skins disponíveis para venda  
+  - Autenticação e autorização de usuários  
+  - Gerenciamento de usuários  
+
+  🔗 [Repositório](https://github.com/abrahao02/site-venda-skins)  
+  🌐 [Acesse o projeto online](https://infnet-aluno2023-01.azurewebsites.net/)  
+</details>
+
+<details>
+  <summary>🔹 Tech Mentor+</summary>
+
+  **Descrição:**  
+  Plataforma de **mentoria inclusiva** conectando mentores e mentorados, com foco em diversidade no mercado de tecnologia.  
+
+  **Tecnologias utilizadas:**  
+  - React  
+  - Firebase Authentication  
+  - Firestore  
+
+  **Funcionalidades:**  
+  - Cadastro e login de usuários  
+  - Dashboard com perfis de mentores  
+  - Compartilhamento de experiências  
+  - Espaço para networking e aprendizado  
+
+  🔗 [Repositório](https://github.com/abrahao02/tech-mentor-plus)  
+</details>
