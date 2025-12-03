@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=87bbff&vCenter=true&width=600&height=22&lines=%F0%9F%92%BB+Sou+Desenvolvedor+FullStack;%F0%9F%92%96+Estudante+de+Engenharia+de+Software;%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Freelancer+e+Trabalhos+Pessoais;%F0%9F%91%80+Conhe%C3%A7a+meus+projetos)](https://git.io/typing-svg)
 
-#### 🎮 Meu portfólio web clicando [aqui](https://abrahao02.github.io/PortifolioWeb/). Fique à vontade para explorar e conhecer mais sobre mim e meus projetos.
+#### 🎮 Meu portfólio web clicando [aqui](https://abrahao02.github.io/Portifolio_Web/). Fique à vontade para explorar e conhecer mais sobre mim e meus projetos.
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> Sobre mim
