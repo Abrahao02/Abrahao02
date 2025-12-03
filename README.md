@@ -29,25 +29,6 @@
 ## 🚀 Principais Projetos
 
 <details>
-  <summary>🔹 Escola REST API</summary>
-
-  **Descrição:**  
-  API em **Spring Boot** para gerenciar alunos, disciplinas e notas, com autenticação básica para professores.  
-
-  **Tecnologias:**  
-  - Java 17, Spring Boot 3, PostgreSQL  
-  - Docker + Docker Compose, JUnit 5, Lombok, Maven  
-
-  **Funcionalidades:**  
-  - CRUD de alunos e disciplinas  
-  - Atribuição de notas e listagem de aprovados/reprovados  
-  - Autenticação básica (Basic Auth)  
-  - Testes unitários com cobertura > 80%  
-
-  🔗 [Repositório](https://github.com/Abrahao02/EscolaREST)  
-</details>
-
-<details>
   <summary>🔹 App de Receitas</summary>
 
   **Descrição:**  
