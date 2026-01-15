@@ -51,7 +51,7 @@ A real-world SaaS platform used by a doctor to manage appointments, availability
 - Appointment status control  
 - WhatsApp confirmation automation  
 - Secure authentication and data handling  
-🌐 *Live Demo available via repository*
+🌐 [Online Demo](https://etna-agendamento-medico.web.app/)
 
 ---
 
