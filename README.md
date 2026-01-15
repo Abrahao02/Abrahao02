@@ -2,7 +2,8 @@
 
 # 👋 Hello! I'm Eduardo de Sá Abrahão
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+%7C+Java+%26+React;Software+Engineering+Student;SaaS+Builder+%7C+Real+World+Projects&center=true&size=25)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+%26+React+Specialist;SaaS+Builder;Software+Engineering+Student;Real+World+Projects&center=true&size=25)](https://git.io/typing-svg)
+
 
 🎯 Building scalable solutions that solve real problems and reduce manual effort.
 
