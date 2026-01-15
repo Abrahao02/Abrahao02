@@ -1,6 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
+
 # 👋 Hello! I'm Eduardo de Sá Abrahão
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=87bbff&vCenter=true&width=600&height=22&lines=%F0%9F%92%BB+Full+Stack+Developer+%7C+Java+%26+React;%F0%9F%93%9A+Software+Engineering+Student;%F0%9F%9A%80+SaaS+Builder+%7C+Real+World+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+%7C+Java+%26+React;Software+Engineering+Student;SaaS+Builder+%7C+Real+World+Projects&center=true&size=25)](https://git.io/typing-svg)
 
 🎯 Building scalable solutions that solve real problems and reduce manual effort.
 
@@ -13,15 +15,15 @@
 - 🧠 Passionate about **process automation**, **workflow optimization**, and **SaaS development**  
 - 🌍 Open to remote, hybrid, or relocation opportunities  
 - 🗣️ Advanced English – fluent in reading, writing, and technical communication  
-- 📫 Contact: eduardo.abrahao@hotmail.com
+- 📫 Contact: **eduardo.abrahao@hotmail.com**
 
 ---
 
 ## 🌐 Portfolio & Links
 
-- 🔗 [Web Portfolio](https://abrahao02.github.io/Portifolio_Web/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-abrah%C3%A3o-160957238/)
-- 📸 [Instagram](https://www.instagram.com/eduardo_abrahao/)
+- 🔗 [Web Portfolio](https://abrahao02.github.io/Portifolio_Web/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-abrah%C3%A3o-160957238/)  
+- 📸 [Instagram](https://www.instagram.com/eduardo_abrahao/)  
 
 ---
 
@@ -49,7 +51,7 @@ A real-world SaaS platform used by a doctor to manage appointments, availability
 - Appointment status control  
 - WhatsApp confirmation automation  
 - Secure authentication and data handling  
-🌐 [Online Demo](https://etna-agendamento-medico.web.app/)
+🌐 *Live Demo available via repository*
 
 ---
 
@@ -63,7 +65,7 @@ Android app for managing and calculating recipe costs, with cloud integration.
 - Password recovery  
 - Cloud recipe storage  
 - Cost calculation  
-- Clean UI
+- Clean UI  
 
 ---
 
@@ -80,11 +82,14 @@ Web platform built with C# Razor Pages, deployed on Azure.
 
 ---
 
-## 📈 GitHub Stats
+## ⚙️ GitHub Analytics
+>
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrahao02&show_icons=true&theme=radical)
+<!-- Activity Graph -->
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abrahao02&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph" width="95%" alt="activity graph">
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!  
-I'm always open to feedback, collaboration, and new challenges.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
