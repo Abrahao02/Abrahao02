@@ -1,115 +1,88 @@
-# Hello! I'm Eduardo de Sá Abrahão 👋
+# 👋 Hello! I'm Eduardo de Sá Abrahão
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=87bbff&vCenter=true&width=600&height=22&lines=%F0%9F%92%BB+FullStack+Developer;%F0%9F%92%96+Software+Engineering+Bachelor's+Student;%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Freelancer+%26+Personal+Projects;%F0%9F%9A%80+Building+Real+World+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=87bbff&vCenter=true&width=600&height=22&lines=%F0%9F%92%BB+Full+Stack+Developer+%7C+Java+%26+React;%F0%9F%93%9A+Software+Engineering+Student;%F0%9F%9A%80+SaaS+Builder+%7C+Real+World+Projects)](https://git.io/typing-svg)
 
-#### 🎮 Access my web portfolio by clicking [here](https://abrahao02.github.io/Portifolio_Web/).  
-Feel free to explore and learn more about my work and projects.
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> About Me
-
-- 🔭 FullStack Developer working on **real-world SaaS applications**, freelance and personal projects.  
-- 🌱 Currently pursuing a **Bachelor's degree in Software Engineering**.  
-- ⚙️ Strong interest in **process automation**, workflow optimization, and building scalable solutions that reduce errors and manual effort.  
-- 🧠 Passionate about turning real problems into functional software used by real people.  
-- 📫 Contact me: **eduardo.abrahao@hotmail.com**
+🎯 Building scalable solutions that solve real problems and reduce manual effort.
 
 ---
 
-### 🎉 Let's Connect!
+## 📚 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-abrah%C3%A3o-160957238/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_abrahao/)
+- 💻 Full Stack Developer with experience in **Java (Spring Boot)**, **JavaScript**, **React**, and **Firebase**  
+- 🎓 Bachelor's degree in Software Engineering (completion: June 2026)  
+- 🧠 Passionate about **process automation**, **workflow optimization**, and **SaaS development**  
+- 🌍 Open to remote, hybrid, or relocation opportunities  
+- 🗣️ Advanced English – fluent in reading, writing, and technical communication  
+- 📫 Contact: eduardo.abrahao@hotmail.com
 
 ---
 
-### ⚙ Technologies I Use
+## 🌐 Portfolio & Links
 
-<div style="display: inline_block">
-  <img align="center" alt="Edu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Edu-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+- 🔗 [Web Portfolio](https://abrahao02.github.io/Portifolio_Web/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-abrah%C3%A3o-160957238/)
+- 📸 [Instagram](https://www.instagram.com/eduardo_abrahao/)
+
+---
+
+## ⚙️ Technologies & Tools
+
+**Main Stack:**  
+`Java` • `Spring Boot` • `JavaScript` • `React` • `Firebase` • `PostgreSQL` • `Git` • `Docker`
+
+**Also familiar with:**  
+`Python` • `C#` • `Azure` • `HTML/CSS` • `Sass` • `GitHub Actions`
 
 ---
 
 ## 🚀 Highlight Projects
 
-<details open>
-  <summary>🔹 Medical Scheduling System (SaaS)</summary>
+### 🔹 [Medical Scheduling System (SaaS)](https://github.com/Abrahao02/Agendamento-medico)
 
-  **Description:**  
-  A **real-world medical scheduling system** developed as a SaaS-style web application.  
-  Currently **in production and actively used by a real doctor** to manage appointments, availability, and daily workflow.
+A real-world SaaS platform used by a doctor to manage appointments, availability, and daily workflow.
 
-  **Technologies used:**  
-  - React 18 + Vite  
-  - Firebase Authentication  
-  - Firebase Firestore  
-
-  **Key features:**  
-  - Doctor dashboard with monthly metrics  
-  - Custom availability and time-slot management  
-  - Public scheduling link for patients  
-  - Appointment status control  
-  - Automatic WhatsApp confirmation  
-  - Secure authentication and data handling  
-
-  🔗 [Repository](https://github.com/Abrahao02/Agendamento-medico)  
-  🌐 Live Demo: *available via repository*
-</details>
+**Tech Stack:** React 18 + Vite • Firebase Auth • Firestore  
+**Key Features:**
+- Doctor dashboard with monthly metrics  
+- Custom availability and time-slot management  
+- Public scheduling link for patients  
+- Appointment status control  
+- WhatsApp confirmation automation  
+- Secure authentication and data handling  
+🌐 🌐 [Online Demo](https://etna-agendamento-medico.web.app/)
 
 ---
 
-<details>
-  <summary>🔹 Recipe App (Android)</summary>
+### 🔹 [Recipe App (Android)](https://github.com/Abrahao02/ReceitaAplicativoAndroid)
 
-  **Description:**  
-  An **Android application** that allows users to store, manage, and calculate recipe costs, fully integrated with cloud services.
+Android app for managing and calculating recipe costs, with cloud integration.
 
-  **Technologies used:**  
-  - Android Studio  
-  - Firebase Authentication  
-  - Firebase Firestore  
-
-  **Features:**  
-  - User signup and login  
-  - Password recovery  
-  - Cloud recipe storage  
-  - Automatic cost calculation  
-  - Clean and intuitive interface  
-
-  🔗 [Repository](https://github.com/Abrahao02/ReceitaAplicativoAndroid)
-</details>
+**Tech Stack:** Android Studio • Firebase  
+**Features:**
+- User signup/login  
+- Password recovery  
+- Cloud recipe storage  
+- Cost calculation  
+- Clean UI
 
 ---
 
-<details>
-  <summary>🔹 Skins-Selling Website</summary>
+### 🔹 [Skins-Selling Website](https://github.com/Abrahao02/CS2SKINWebApplication)
 
-  **Description:**  
-  A web platform built with **C# Razor Pages**, featuring user management, CRUD operations, and cloud deployment.
+Web platform built with C# Razor Pages, deployed on Azure.
 
-  **Technologies used:**  
-  - C#  
-  - Razor Pages  
-  - Database  
-  - Azure  
+**Tech Stack:** C# • Razor Pages • Azure  
+**Features:**
+- Full CRUD system  
+- User authentication  
+- Admin/user management  
+🌐 [Online Demo](https://infnet-aluno2023-01.azurewebsites.net/)
 
-  **Features:**  
-  - Full CRUD system  
-  - User authentication and authorization  
-  - Admin and user management  
-  - Deployed on Azure  
+---
 
-  🔗 [Repository](https://github.com/Abrahao02/CS2SKINWebApplication)  
-  🌐 [Online Demo](https://infnet-aluno2023-01.azurewebsites.net/)
-</details>
+## 📈 GitHub Stats
+
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrahao02&show_icons=true&theme=radical)
 
 ---
 
